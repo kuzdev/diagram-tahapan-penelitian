@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T09:15:01.378Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.6.11" etag="wgNA2VtBvtwSf7rfMsfX" type="github"><diagram id="qnI18TV7J52nefKSVEtd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-11T09:27:54.822Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="E0dv_Kb4C5QKTUgiIfty" version="14.6.11" type="github">
+  <diagram id="qnI18TV7J52nefKSVEtd" name="Page-1">
+    <mxGraphModel dx="1933" dy="1265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZNmP25YWaFyUqQqaotwT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZNmP25YWaFyUqQqaotwT-1" target="ZNmP25YWaFyUqQqaotwT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNmP25YWaFyUqQqaotwT-1" value="&lt;br&gt;&amp;nbsp; &amp;nbsp; Pengumpulan Data&lt;br&gt;&lt;ul&gt;&lt;li&gt;Observasi&lt;/li&gt;&lt;li&gt;Wawancara&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNmP25YWaFyUqQqaotwT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZNmP25YWaFyUqQqaotwT-2" target="ZNmP25YWaFyUqQqaotwT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNmP25YWaFyUqQqaotwT-2" value="Pembuatan Program" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="60" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNmP25YWaFyUqQqaotwT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZNmP25YWaFyUqQqaotwT-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="59" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="407" y="220" />
+              <mxPoint x="407" y="40" />
+              <mxPoint x="500" y="40" />
+              <mxPoint x="500" y="59" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNmP25YWaFyUqQqaotwT-3" value="Perancangan Interface" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="164" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNmP25YWaFyUqQqaotwT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZNmP25YWaFyUqQqaotwT-4" target="ZNmP25YWaFyUqQqaotwT-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="292" y="180" />
+              <mxPoint x="292" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNmP25YWaFyUqQqaotwT-4" value="&lt;br&gt;Perancangan Sistem&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;Perancangan Sistem&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Perancangan Basis Data&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="60" width="164" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNmP25YWaFyUqQqaotwT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZNmP25YWaFyUqQqaotwT-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="292" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="185" y="180" />
+              <mxPoint x="185" y="40" />
+              <mxPoint x="292" y="40" />
+              <mxPoint x="292" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNmP25YWaFyUqQqaotwT-5" value="Analisis Sistem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="160" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNmP25YWaFyUqQqaotwT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZNmP25YWaFyUqQqaotwT-6" target="ZNmP25YWaFyUqQqaotwT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNmP25YWaFyUqQqaotwT-6" value="Pengujian" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNmP25YWaFyUqQqaotwT-7" value="Implementasi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
